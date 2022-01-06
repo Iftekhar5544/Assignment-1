@@ -72,12 +72,15 @@ h3 {
 }
 #box_1_color{
     background-color: #ef9a9a32;
+    box-shadow: 10px 10px 40px rgb(134, 133, 133);
 }
 #box_2_color{
     background-color: #80deea3b;
+    box-shadow: 10px 10px 40px rgb(134, 133, 133);
 }
 #box_3_color{
     background-color: #e6ee9c3d;
+    box-shadow: 10px 10px 40px rgb(134, 133, 133);
 }
 /*third part*/
 .section3{
@@ -104,8 +107,8 @@ h3 {
     background-color: black;
     text-align: center;
     color: white;
-    padding: 75px;
-    font-size: 1em;
+    padding: 50px;
+    font-size: 1.1em;
     margin-left: 0;
 }
 #footcolor{
