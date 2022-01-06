@@ -23,7 +23,7 @@ h1{
     border-image: linear-gradient( #5753f4, #6a27ec);
     border-image-slice: 1;
     padding-left: 10px;
-     /*unable to adjust the height of line with text*/
+     /*unable to adjust the height of left line with text*/
 }
 #topHeading{
     color: #5753f4;
@@ -88,6 +88,7 @@ h3 {
     margin: 5%;
     width: 100%;
     padding-top: 100px;
+    
 }
 .section3 img{
     width: 80%;
@@ -107,10 +108,16 @@ h3 {
     background-color: black;
     text-align: center;
     color: white;
-    padding: 50px;
+    padding: 45px;
     font-size: 1.1em;
     margin-left: 0;
 }
 #footcolor{
     color: #6a68f0;
+}
+#background3{
+    background-image: url(images/shape-6.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: unset;
 }
